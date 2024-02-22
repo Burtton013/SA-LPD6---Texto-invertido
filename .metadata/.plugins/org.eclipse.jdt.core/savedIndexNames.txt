@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+F:\Cursos-Carrera\Programacion\Generation\Bootcamp java full stack\CH36\Tareas\28\SA-LPD6 - Texto invertido\.metadata\.plugins\org.eclipse.jdt.core
+4058328797.index
+1865797976.index
+3413725848.index
